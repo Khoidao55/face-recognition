@@ -1,0 +1,11 @@
+.SignOutButton{
+    color: black;
+    display:flex;
+    justify-content: flex-end;
+    text-decoration: underline;
+    padding-right: 30px;
+}
+
+.SignOutButton:hover{
+    color: dimgray;
+}
